@@ -39,8 +39,8 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/scotiCH/russian-toxic-comments-project/tree/main
-    cd russian-toxic-comments-project/tree/main
+    git clone https://github.com/scotiCH/russian-toxic-comments-project
+    cd russian-toxic-comments-project
     ```
 
 2.  **Установите зависимости:**
